@@ -1,6 +1,5 @@
 ### Hi, I'm Andrew 👋
 ---
-
 **Currently**
 
 Senior Software Engineer @ [Outreach](https://www.outreach.io/)
@@ -11,7 +10,19 @@ Senior Software Engineer @ [Outreach](https://www.outreach.io/)
 - Mentor @ [Thinkful](https://www.thinkful.com/bootcamp/web-development/)
 - Front-end Developer @ [Sharpen](https://sharpencx.com/)
 
-**Contact**
+**Languages**
+
+JavaScript, TypeScript, HTML, CSS, PHP
+
+**Technologies**
+
+React.js, Apollo GraphQL, Material UI, Tailwind CSS, Storybook, Next.js, Jest, React Testing Library, Redux, WebSockets, Babel, ESLint, Prettier, Webpack, Sass, Node.js, Express, Git
+
+**Design**
+
+Figma, Illustrator, Photoshop, InDesign, After Effects
+
+**How to reach me**
 - [Email](mailto:bricea27@gmail.com)
 - [LinkedIn](https://linkedin.com/in/briceandrew)
 - [Website](https://thebriceisright.com)
