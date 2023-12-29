@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi, I'm Andrew 👋
+---
+
+**Currently**
+
+Senior Software Engineer @ [Outreach](https://www.outreach.io/)
+
+
+**Previously**
+- Senior Software Engineer @ Docket (Acquired by Zoom in 2022)
+- Mentor @ [Thinkful](https://www.thinkful.com/bootcamp/web-development/)
+- Front-end Developer @ [Sharpen](https://sharpencx.com/)
 
 <!--
 **bricea27/bricea27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
