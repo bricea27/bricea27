@@ -11,6 +11,11 @@ Senior Software Engineer @ [Outreach](https://www.outreach.io/)
 - Mentor @ [Thinkful](https://www.thinkful.com/bootcamp/web-development/)
 - Front-end Developer @ [Sharpen](https://sharpencx.com/)
 
+**Contact**
+- [Email](mailto:bricea27@gmail.com)
+- [LinkedIn](https://linkedin.com/in/briceandrew)
+- [Website](https://thebriceisright.com)
+
 <!--
 **bricea27/bricea27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
