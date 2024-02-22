@@ -6,7 +6,7 @@ Senior Software Engineer @ [Outreach](https://www.outreach.io/)
 
 
 **Previously**
-- Senior Software Engineer @ Docket (Acquired by Zoom in 2022)
+- Senior Software Engineer @ [Docket](https://www.linkedin.com/company/dockethq/about/) (Acquired by Zoom in 2022)
 - Mentor @ [Thinkful](https://www.thinkful.com/bootcamp/web-development/)
 - Front-end Developer @ [Sharpen](https://sharpencx.com/)
 
