@@ -2,10 +2,11 @@
 ---
 **Currently**
 
-Senior Software Engineer @ [Outreach](https://www.outreach.io/)
+Senior Software Engineer @ [Basebuild](https://basebuild.com/)
 
 
 **Previously**
+- Senior Software Engineer @ [Outreach](https://www.outreach.io/)
 - Senior Software Engineer @ [Docket](https://www.linkedin.com/company/dockethq/about/) (Acquired by Zoom in 2022)
 - Mentor @ [Thinkful](https://www.thinkful.com/bootcamp/web-development/)
 - Front-end Developer @ [Sharpen](https://sharpencx.com/)
